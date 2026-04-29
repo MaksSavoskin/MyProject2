@@ -1,0 +1,26 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Build artifacts
+Build/
+
+# Visual Studio
+.vs/
+.vscode/
+*.sln
+*.VC.db
+*.VC.opendb
+*.user
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+.ignore
+.vsconfig
+*.code-workspace
